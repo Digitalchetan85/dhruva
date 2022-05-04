@@ -1,0 +1,469 @@
+body {
+    font-family: 'Cairo';font-size: 16px;
+}
+p {
+    color: rgba(0, 0, 0, 0.8);
+    margin: 0 0 10px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*Navigation Bar Design*/
+
+
+
+.navbar-brand>img {
+    display: block;
+    width: 75%;
+}
+
+.navbar-brand {
+    float: left;
+    margin-bottom: 106px;
+    padding: 8px 41px;
+    font-size: 18px;
+    line-height: 22px;
+}
+ 
+a.active {
+    background: #ea7f42;
+}
+
+.active {
+    background: #ea7f42;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 41px;
+    margin-right: 0px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+#myNavbar .nav>li {
+    margin-right: 30px;
+    position: relative;
+    display: block;
+}
+#myNavbar {
+    float: right;
+    margin-top: 49px;
+}
+.navbar-fixed-bottom, .navbar-fixed-top {
+    position: inherit;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: #ea7f42;
+}
+
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-right: 55px;
+    list-style: none;
+    background-color: #fff;
+}
+
+/*Navigation Bar Design Ends*/
+
+
+
+
+/*welocme message starts*/
+
+.welcome-style h2 {
+    font-size: 25px;
+    margin-top: 53px;
+    font-weight: bold;
+    color: rgba(8, 8, 8, 0.77);
+}
+
+.welocome-content {
+    margin-top: 36px;
+    margin-bottom: 48px;
+}
+
+.welcome-style .container-fluid {
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+/*welcome message ends*/
+
+
+
+
+/*Footer starts*/
+.footer {
+    background-color: rgba(25, 9, 9, 0.06);
+    padding-bottom: 9px;
+    padding-top: 13px;
+}
+
+.footer h5 {
+    color: #703d3c;
+    margin-top: 146px;
+}
+.contact-information {
+    background-color: rgb(77, 104, 152);
+    color: #703d3c;
+    padding-top: 18px;
+}
+
+.footer a {
+    color: #703d3c;
+    text-decoration: none;
+}
+p.fotter-address {
+    color: #703d3c;
+    margin-top: 40px;
+    margin-left: -47px;
+}
+/*Footer ends*/
+
+/*about us starts*/
+
+.about-msg h5.text-left {
+    font-size: 25px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 28px;
+    margin-top: 33px;
+}
+.about-msg p.text-center {
+    font-size: 15px;
+}
+
+.vison-mission {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-bottom: 35px;
+}
+.about-msg {
+    background-color: #fff;
+    color: #000;
+}
+
+.about-msg p.text-left {
+    margin-bottom: 50px;
+    margin-right: 37px;
+}
+.vison-mission h4.text-left {
+    font-size: 25px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 28px;
+    margin-top: 33px;
+}
+
+.vison-mission p {
+    margin-bottom: 34px;
+    color: #000;
+}
+.about-con {
+    margin-top: 1px;
+    padding-top: 61px;
+}
+
+.container-fuid {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.about-con .col-md-9 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.about-msg .col-md-3 {
+    padding-right: 0px;
+}
+.vison-mission .container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 37px;
+    margin-left: 37px;
+}
+/*about us ends*/
+
+/*Project page*/
+.projects-content img {
+    margin-top: 111px;
+}
+.projects-content .container-fluid.bliss {
+    margin-bottom: 100px;
+}
+.project-title h2{
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 60px;
+}
+
+.projects-content {
+    background: #fff;
+    padding-top: 8px;
+    margin-bottom: 1px;
+}
+.projects-content h2.text-left.text-uppercase.nowork {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+
+.projects-content h4.text-capitalize.text-left {
+    margin-top: 23px;
+    margin-bottom: 36px;
+}
+
+.project-title .container-fluid {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.projects-content .container-fluid {
+    margin-right: 37px;
+    margin-left: 37px;
+}
+/*project page ends*/
+
+/*compleated project page starts*/
+.compleated-header .col-md-9 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.compleated-header .col-md-3 {
+    padding-right: 0px;
+}
+.compleated-header h5.text-uppercase.text-left {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    margin-top: 17px;
+    margin-bottom: 24px;
+}
+.compleated-header .container-fluid {
+    margin-left: 37PX;
+    margin-right: 37PX;
+}
+.compleated-header {
+    text-align: center;
+    margin-top: 1px;
+    padding-top: 7px;
+    margin-bottom: 1px;
+    background-color: #fff;
+}
+
+.compleated-header p.text-justify {
+    margin-top: 37px;
+    margin-bottom: 38px;
+    color: #000;
+}
+.compleated-header .col-md-8 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.compleated-header h2.text-uppercase.text-left {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 60px;
+}
+
+.com-floar-plan h5.text-center.text-uppercase {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 27px;
+}
+.com-floar-plan {
+    margin-top: 1px;
+    padding-top: 59px;
+}
+.com-route {
+    margin-top: 1px;
+    padding-top: 84px;
+    padding-bottom: 52px;
+}
+
+.facilities h6 {
+    font-weight: bold;
+    margin-top: 47px;
+    margin-bottom: 14px;
+}
+/*compleated page ends*/
+
+/*Contact form starts*/
+.contact-form {
+    margin-bottom: 1px;
+    padding-bottom: 30px;
+    margin-top: 1px;
+    padding-top: 29px;
+}
+
+.contact-form h4.text-left {
+    margin-top: 5px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 23px;
+}
+
+.contact-us .container-fluid {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+p.disp-msg.text-center {
+    font-size: larger;
+    font-weight: bold;
+}
+/*Contact form Ends*/
+
+/*Gallary starts*/
+
+.dh-gallary h2.text-uppercase {
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 60px;
+    margin-left: 13px;
+}
+
+.dh-gallary .container-fluid {
+    margin-right: 37px;
+    margin-left: 37px;
+}
+
+/* Style the Image Used to Trigger the Modal */
+.myImgcss {
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.myImgcss:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 1000px;
+    border-radius: 10px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption { 
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+/*Gallary Ends*/
+/*map starts*/
+iframe {
+    width: 100%;
+}
+.dhuuva-map {
+    margin-bottom: -4px;
+}
+/*map ends*/
+
+.modal-backdrop {
+    z-index: 0;
+}
+
+.modal-body {
+    padding: 15px;
+}
+
+.close {
+    color: #000;
+}
+
+.mb-3 {
+    margin-bottom: 16px;
+}
