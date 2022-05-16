@@ -140,11 +140,11 @@
             </div>
         </div>
 
-        <div id="desktop-content" class="d-none d-md-block">
-            <div class="container">
+        <div id="desktop-content" class="d-none d-md-block position-absolute top-50 start-0 translate-middle-y w-100">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="wraper position-absolute">
+                        <div class="wraper">
                             <h2 class="text-center text-white bg-danger p-2 text-uppercase">Booking Open</h2>
                             <h1 class="text-center text-danger text-uppercase"> About Dhruva Coral</h1>
                             <div class="p-2 text-center">Nagasandra, off Tumkur Road, Bangalore</div>
