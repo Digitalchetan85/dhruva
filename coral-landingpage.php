@@ -209,23 +209,221 @@
             </div>
         </div>
 
-        <div id="virtual-site-tour" class="pt-2 pb-2 pt-md-5 pb-md-5 bg-white">
+        <div id="specifications" class="pt-2 pb-2 pt-md-5 pb-md-5 bg-white">
+            <h2 class="text-center pt-2 pb-2">Specifications</h2>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="text-center pt-2 pb-2">Virtual Site Tour</h2>
-                        <div class="text-center">
-                            <!-- <a href="https://www.youtube.com/watch?v=wCJSevSsur8" target="_blank">
+                    <div class="col-md-6">
+                        <!-- <div class="text-center">
+                            <a href="https://www.youtube.com/watch?v=wCJSevSsur8" target="_blank">
                                 <img src="./landing/images/video.png" class="img-fluid">
-                            </a> -->
+                            </a>
                             <video width="800" height="600" autoplay muted controls>
                                 <source src="./landing/images/shoba-dream/video/VID-20210813-WA0006.mp4" type="video/mp4">
                             </video>
+                        </div> -->
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-middle">
+                                <img src="landing/images/specific/structure.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-middle">
+                                <div class="structure pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Structure:</h6>
+                                    <ul>
+                                        <li>RCC framed structure with necessary footings & beams.
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/wall.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="walls pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Walls:</h6>
+                                    <ul>
+                                        <li>6” solid cement blocks for external walls.
+                                        </li>
+                                        <li>4” solid cement blocks for internal walls.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/doors.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="doors pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Doors:</h6>
+                                    <ul>
+                                        <li>Main door - Elegant teak frame with moulded
+                                            panel door veneered with polish.
+                                        </li>
+                                        <li>Other doors - Sal Wood frame with moulded flush doors.</li>
+                                        <li>Toilet & kitchen door - Sal wood frame with water proof flush door.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/windows.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="windows pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Windows:</h6>
+                                    <ul>
+                                        <li>3 tracks glazed aluminum sliding windows (Domal Aluminum) with
+                                            safety grills.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/flooring.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="flooring pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Flooring:</h6>
+                                    <ul>
+                                <li>Master bedrooms: Wooden Pattern Vitrified tiles of 600mm x 1200mm.</li>
+                                <li>Living / dining / bedrooms / kitchen: 800mm x 800mm good quality
+                                    vitrified tiles.</li>
+
+                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/kitchen.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="kitchen pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Kitchen:</h6>
+                                    <ul>
+                                    <li> Polished granite slab for platform with stainless steel sink &
+                                    4' height glazed tile dado of 1’ x 2’ digital print tiles.
+                                </li>
+                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/toilet.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="toilet pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Toilets:</h6>
+                                    <ul>
+                                    <li>Anti skid ceramic tile flooring & glazed tile dado up to 7' ht.
+                                </li>
+                                <li>Hindware / equivalent sanitary ware & Jaquar / equivalent
+                                    CP fittings.</li>
+                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/fixture.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="fixtures pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Fixtures:</h6>
+                                    <ul>
+                                        <li>Sufficient fitments for main door, bedrooms and balconies will be provided.</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/painting.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="painting pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Painting:</h6>
+                                    <ul>
+                                        <li>Plastic emulsion paints for internal walls.</li>
+                                        <li>Synthetic enamel paint for doors & grills. </li>
+                                        <li>Apex weather shield paint for external walls.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/electrical.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="electrical pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Electrical:</h6>
+                                    <ul>
+                                        <li>ISI mark multi strand concealed copper wiring with modular switches of Anchor Roma make / equivalent.</li>
+                                        <li>Electrical point for split AC in master bedroo</li>
+                                        <li>T.V. point in master bedroom and living.</li>
+                                        <li>Telephone point in living room.</li>
+                                        <li>Sufficient power points will be provided in the kitchen and toilet for gadgets like geyser and exhaust fan.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/common.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="common pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Common Areas:</h6>
+                                    <ul>
+                                        <li>Granite / vitrified tiles flooring for lobbies.</li>
+                                        <li>20mm granite for staircase</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/water.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="water pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Water:</h6>
+                                    <ul>
+                                <li>Over head & under ground tanks of required capacity with pumps for ground water.</li>
+                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-2">
+                            <div class="col-md-2 align-self-center">
+                                <img src="landing/images/specific/backup.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="col-md-10 align-self-center">
+                                <div class="generator pt-3 ps-1 m-2">
+                                    <h6 class="text-uppercase">Generator Back Up:</h6>
+                                    <ul>
+                                    <li> 100% back up power available for all common areas, lifts, lobbies & staircase. 500 W for 2 BHK and 600 W for 3BHK back up power for each flat, for lights & fans</li>
+                            </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
+
 
         <div id="master-plan" class="pt-2 pb-2 pt-md-5 pb-md-5 bg-light">
             <div class="container">
@@ -277,23 +475,22 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>
-                                                <h3 class="mb-1 text-white bg-dark p-2">2BHK</h3> <br>
-                                                <h2 class="mb-1">Sqft 1007 </h2> <br>
-                                                <h1 class="mb-1 text-danger fs-1">₹ 68 - 70L*</h1><br><button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                            <td>2 BHK</td>
+                                            <td>1120</td>
+                                            <td>70L* Onwards</td>
+                                            <td><button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                     Price Breakup
-                                                </button>
-                                            </td>
+                                                </button></td>
                                         </tr>
 
+
                                         <tr>
-                                            <td>
-                                                <h3 class="mb-1 text-white bg-dark p-2">2 BHK Large</h3> <br>
-                                                <h2 class="mb-1">Sqft 1210 </h2> <br>
-                                                <h1 class="mb-1 text-danger fs-1">₹ 82 - 85L*</h1><br><button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                            <td>3 BHK</td>
+                                            <td>1400</td>
+                                            <td>₹90L* Onwards </td>
+                                            <td><button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                     Price Breakup
-                                                </button>
-                                            </td>
+                                                </button></td>
                                         </tr>
 
                                     </tbody>
@@ -364,8 +561,8 @@
                                     <tbody>
                                         <tr>
                                             <td>2 BHK</td>
-                                            <td>1007</td>
-                                            <td>₹ 68 - 70L*</td>
+                                            <td>1120</td>
+                                            <td>70L* Onwards</td>
                                             <td><button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                     Price Breakup
                                                 </button></td>
@@ -373,9 +570,9 @@
 
 
                                         <tr>
-                                            <td>2 BHK Large</td>
-                                            <td>1210</td>
-                                            <td>₹ 82 - 85L*</td>
+                                            <td>3 BHK</td>
+                                            <td>1400</td>
+                                            <td>₹90L* Onwards </td>
                                             <td><button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                                     Price Breakup
                                                 </button></td>
@@ -636,7 +833,7 @@
                 <div class="row">
                     <h2 class="pt-2 pb-2 text-center">Location</h2>
                     <div class="col-md-8">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14532.501202480775!2d77.4861595297508!3d13.026413659255228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d87ca088cf3%3A0xa610e59f3af28f09!2sDhruva%20Coral!5e0!3m2!1sen!2sin!4v1609217388239!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14532.501202480775!2d77.4861595297508!3d13.026413659255228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d87ca088cf3%3A0xa610e59f3af28f09!2sDhruva%20Coral!5e0!3m2!1sen!2sin!4v1609217388239!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
                     <div class="col-md-4 align-self-center">
                         <div class="bg-success rounded pt-3 pb-3">
