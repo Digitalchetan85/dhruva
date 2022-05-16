@@ -86,13 +86,13 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active animate__animated animate__zoomIn">
-                    <img src="./landing/images/shoba-dream/slider/buildeng.jpg" class="d-block w-100" alt="...">
+                    <img src="./landing/images/new/banner-1.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item animate__animated animate__zoomIn">
-                    <img src="./landing/images/shoba-dream/slider/building.jpg" class="d-block w-100" alt="...">
+                    <img src="./landing/images/new/banner-2.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item animate__animated animate__zoomIn">
-                    <img src="./landing/images/shoba-dream/slider/gallery_image3.jpg" class="d-block w-100" alt="...">
+                    <img src="./landing/images/new/banner-3.png" class="d-block w-100" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -146,7 +146,7 @@
                     <div class="col-md-4">
                         <div class="wraper position-absolute">
                             <h2 class="text-center text-white bg-danger p-2 text-uppercase">Booking Open</h2>
-                            <h1 class="text-center text-danger text-uppercase">Dhruva Coral</h1>
+                            <h1 class="text-center text-danger text-uppercase"> About Dhruva Coral</h1>
                             <div class="p-2 text-center">Nagasandra, off Tumkur Road, Bangalore</div>
                             <div class="bg-dark p-3 text-white">
                                 <ul class="list-unstyled text-center">
@@ -431,7 +431,7 @@
                     <div class="col-md-12">
                         <h2 class="text-center pt-2 pb-2">Master Plan</h2>
                         <div class="text-center">
-                            <img src="./landing/images/shoba-dream/nand-master-plan-main.png" alt="" class="img-fluid bg-white">
+                            <img src="./landing/images/new/master-plan.png" alt="" class="img-fluid bg-white">
                         </div>
                     </div>
                 </div>
@@ -444,19 +444,19 @@
                     <div class="row">
                         <h2 class="text-center pt-2 pb-2">Floor Plans</h2>
                         <div class="gallery_product-2 col-lg-3 col-md-3 col-sm-6 col-xs-6 filter logo-design">
-                            <a href="./landing/images/shoba-dream/floor-plans/floor-plan-1.png" data-lightbox="mygallery-2"><img src="./landing/images/shoba-dream/floor-plans/floor-plan-1.png" class="img-fluid"></a>
+                            <a href="./landing/images/new/unit-2.png" data-lightbox="mygallery-2"><img src="./landing/images/new/unit-2.png" class="img-fluid"></a>
                         </div>
 
                         <div class="gallery_product-2 col-lg-3 col-md-3 col-sm-6 col-xs-6 filter logo-design">
-                            <a href="./landing/images/shoba-dream/floor-plans/floor-plan-2.png" data-lightbox="mygallery-2"><img src="./landing/images/shoba-dream/floor-plans/floor-plan-2.png" class="img-fluid"></a>
+                            <a href="./landing/images/new/unit-10.png" data-lightbox="mygallery-2"><img src="./landing/images/new/unit-10.png" class="img-fluid"></a>
                         </div>
 
                         <div class="gallery_product-2 col-lg-3 col-md-3 col-sm-6 col-xs-6 filter logo-design">
-                            <a href="./landing/images/shoba-dream/floor-plans/floor-plan-3.png" data-lightbox="mygallery-2"><img src="./landing/images/shoba-dream/floor-plans/floor-plan-3.png" class="img-fluid"></a>
+                            <a href="./landing/images/new/unit-17.png" data-lightbox="mygallery-2"><img src="./landing/images/new/unit-17.png" class="img-fluid"></a>
                         </div>
 
                         <div class="gallery_product-2 col-lg-3 col-md-3 col-sm-6 col-xs-6 filter logo-design">
-                            <a href="./landing/images/shoba-dream/floor-plans/floor-plan-4.png" data-lightbox="mygallery-2"><img src="./landing/images/shoba-dream/floor-plans/floor-plan-4.png" class="img-fluid"></a>
+                            <a href="./landing/images/new/unit-20.png" data-lightbox="mygallery-2"><img src="./landing/images/new/unit-20.png" class="img-fluid"></a>
                         </div>
                     </div>
                 </div>
