@@ -840,23 +840,23 @@
                             <h2 class="text-center text-white">Enquire Now!!</h2>
                             <div class="ps-5 pe-5 pt-4">
                                 <div class="mb-3">
-                                    <label for="nandanam-name" class="form-label text-white">Name</label>
-                                    <input type="name" class="form-control" id="nandanam-name" name="nandanam-name" placeholder="Name">
+                                    <label for="landing-name" class="form-label text-white">Name</label>
+                                    <input type="name" class="form-control" id="landing-name" name="landing-name" placeholder="Name">
                                 </div>
                                 <div class="mb-3">
-                                    <label for="nandanam-email" class="form-label text-white">Email
+                                    <label for="landing-email" class="form-label text-white">Email
                                         address</label>
-                                    <input type="email" class="form-control" id="nandanam-email" name="nandanam-email" placeholder="name@example.com">
+                                    <input type="email" class="form-control" id="landing-email" name="landing-email" placeholder="name@example.com">
                                 </div>
                                 <div class="mb-3">
-                                    <label for="nandanam-phone" class="form-label text-white">Phone
+                                    <label for="landing-phone" class="form-label text-white">Phone
                                         No.</label>
-                                    <input type="tel" class="form-control" id="nandanam-phone" name="nandanam-phone" placeholder="Phone No.">
+                                    <input type="tel" class="form-control" id="landing-phone" name="landing-phone" placeholder="Phone No.">
                                 </div>
                                 <div class="text-center">
-                                    <button type="submit" onClick="sendContactNandanam();" class="btn btn-outline-light">Submit</button>
+                                    <button type="submit" onClick="sendContactLanding();" class="btn btn-outline-light">Submit</button>
                                 </div>
-                                <div id="mail-status-nandanam"></div>
+                                <div id="mail-status-landing"></div>
                             </div>
                         </div>
                     </div>
@@ -1130,57 +1130,57 @@
 
             if (valid) {
                 jQuery.ajax({
-                    url: "mail.php",
+                    url: "landing-mail.php",
                     type: "POST",
                     data: 'name=' + $("#name").val() + '&email=' + $("#email").val() + '&phone=' + $("#phone").val(),
 
                     success: function(data) {
-                        $("#mail-status").html(data);
+                        $("#landing-mail-status").html(data);
                         dataclear();
 
                     },
                     error: function(data) {
-                        $("#mail-status").html(data);
+                        $("#landing-mail-status").html(data);
                     }
                 });
             }
         }
 
         function dataclear() {
-            $("#name").val('');
-            $("#email").val('');
-            $("#phone").val('');
+            $("#landing-mail-name").val('');
+            $("#landing-mail-email").val('');
+            $("#landing-mail-phone").val('');
         }
 
         function validateContact() {
             var valid = true;
             //alert("HI");
 
-            if (!$("#name").val()) {
-                $("#name-info").html("Enter Your Name");
-                $("#name").css('border-color', '#dc3545');
+            if (!$("#landing-name").val()) {
+                $("#landing-name-info").html("Enter Your Name");
+                $("#landing-name").css('border-color', '#dc3545');
                 valid = false;
             }
-            if (!$("#email").val()) {
-                $("#email-info").html("Email ID required");
-                $("#email").css('border-color', '#dc3545');
+            if (!$("#landing-email").val()) {
+                $("#landing-email-info").html("Email ID required");
+                $("#landing-email").css('border-color', '#dc3545');
                 valid = false;
             }
-            if (!$("#email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
-                $("#email-info").html("Please enter valid Email ID.");
-                $("#email").css('border-color', '#dc3545');
-                valid = false;
-            }
-
-            if (!$("#phone").val()) {
-                $("#phone-info").html("Provide Contact No.");
-                $("#phone").css('border-color', '#dc3545');
+            if (!$("#landing-email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                $("#landing-email-info").html("Please enter valid Email ID.");
+                $("#landing-email").css('border-color', '#dc3545');
                 valid = false;
             }
 
-            if (!$("#phone").val().match(/^[0-9]{10}$/)) {
-                $("#phone-info").html("Provide valid contact No.");
-                $("#phone").css('border-color', '#dc3545');
+            if (!$("#landing-phone").val()) {
+                $("#landing-phone-info").html("Provide Contact No.");
+                $("#landing-phone").css('border-color', '#dc3545');
+                valid = false;
+            }
+
+            if (!$("#landing-phone").val().match(/^[0-9]{10}$/)) {
+                $("#landing-phone-info").html("Provide valid contact No.");
+                $("#landing-phone").css('border-color', '#dc3545');
                 valid = false;
             }
 
